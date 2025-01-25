@@ -2,7 +2,7 @@
   "name": "markdown-project",
   "private": true,
   "version": "0.0.0",
-  "homepage" : "https://yogu-code.github.io/markdown-project/",
+  "homepage" : "https://yogu-code.github.io/markdown-project",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
